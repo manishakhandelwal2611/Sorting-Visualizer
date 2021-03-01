@@ -1,4 +1,4 @@
-##Sorting Visualizer
+## Sorting Visualizer
 
 This is a sorting visualizer created in react for visualizing sorting algorithms. The human brain can easily process visuals, so it will be easy to understand algorithms through visualizer. Sorting algorithms like Merge Sort, Quick Sort, Bubble Sort, Insertion Sort and Selection Sort have been implemented in this visualizer. Material UI has been used for styling purposes.
 
